@@ -1,0 +1,19 @@
+body{
+	background-color: orange;
+	font-family: verdana
+}
+.grid{
+	width: 300px;
+}
+.cool{
+	background-color: #336699;
+	width: 310px;
+	height: 400px;
+	border-radius: 7px;
+	padding: 5px;
+	color:black;
+}
+
+a{
+	color: black;
+}
